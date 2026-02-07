@@ -5,7 +5,6 @@ import { ProductsModule } from "./products/products.module";
 import { SalesModule } from "./sales/sales.module";
 import { PartnersModule } from "./partners/partners.module";
 import { ReportsModule } from "./reports/reports.module";
-import { Prisma } from "@prisma/client";
 
 @Module({
   imports: [
